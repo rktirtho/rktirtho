@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import * as $ from 'jquery'
 
 @Component({
   selector: 'app-projects',
@@ -7,9 +8,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProjectsComponent implements OnInit {
 
-  constructor() { }
+  constructor() { 
+    this.navbarCollapse();
+  }
 
   ngOnInit(): void {
   }
+  navbarCollapse () {
+    $("#mainNav").addClass("navbar-shrink");
+  };
 
 }

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import * as $ from 'jquery'
 
 @Component({
   selector: 'app-contact',
@@ -7,9 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ContactComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+    this.navbarCollapse();
+   }
 
   ngOnInit(): void {
   }
-
+  navbarCollapse () {
+    $("#mainNav").addClass("navbar-shrink");
+  };
 }
