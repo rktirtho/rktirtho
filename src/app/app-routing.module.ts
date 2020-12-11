@@ -1,3 +1,4 @@
+import { SkillsComponent } from './skills/skills.component';
 import { HomeComponent } from './home/home.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { AboutComponent } from './about/about.component';
@@ -15,7 +16,7 @@ const routes: Routes = [
   {path : "education", component: EducationComponent},
   {path : "training", component: EducationComponent},
   {path : "projects", component: ProjectsComponent},
-  {path : "skills", component: Sk},
+  {path : "skills", component: SkillsComponent},
   {path : "experiance", component: EducationComponent},
   {path : "contact", component: ContactComponent},
 
