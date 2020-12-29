@@ -20,6 +20,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
+<hr> </hr>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rktirtho&show_icons=true&locale=en&layout=compact" alt="siamshaeed" /></p>
+
+
 
 [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rktirtho&show_icons=true)](https://github.com/rktirtho/github-readme-stats)
 
