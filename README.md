@@ -22,7 +22,7 @@
 
 <hr> </hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rktirtho&show_icons=true&locale=en&layout=compact" alt="siamshaeed" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rktirtho&show_icons=true&locale=en&layout=compact" alt="siamshaeed" /></p>
 
 
 [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rktirtho&show_icons=true)](https://github.com/rktirtho/github-readme-stats)
