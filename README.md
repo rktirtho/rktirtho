@@ -10,12 +10,13 @@
 
 
 **Languages and Tools:**  
-<code><img height="20" src="https://icon2.cleanpng.com/20180805/xwk/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766aaf21ab4.3339227715335031469917.jpg"></code>
+<code><img height="20" src="https://thumbnail.imgbin.com/23/23/8/imgbin-java-platform-enterprise-edition-java-platform-standard-edition-javaserver-pages-java-development-kit-others-ZJ4vSyAXq6NXUGJvLjXY8mBz5_t.jpg"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
