@@ -1,3 +1,4 @@
+import { ResumeComponent } from './resume/resume.component';
 import { SkillsComponent } from './skills/skills.component';
 import { HomeComponent } from './home/home.component';
 import { ProjectsComponent } from './projects/projects.component';
@@ -17,8 +18,9 @@ const routes: Routes = [
   {path : "training", component: EducationComponent},
   {path : "projects", component: ProjectsComponent},
   {path : "skills", component: SkillsComponent},
+  {path : "resume", component: ResumeComponent},
   {path : "experiance", component: EducationComponent},
-  {path : "contact", component: ContactComponent},
+  {path : "contact", component: ContactComponent}
 
   
   
