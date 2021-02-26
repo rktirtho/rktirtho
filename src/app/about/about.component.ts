@@ -8,6 +8,9 @@ import * as $ from 'jquery'
 })
 export class AboutComponent implements OnInit {
 
+  // To Do
+  // about information will come from database
+
   constructor() { 
     this.navbarCollapse();
   }

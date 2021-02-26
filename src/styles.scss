@@ -10172,7 +10172,8 @@ body {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #727272;
+    transition: 2s;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #000000;
@@ -10262,7 +10263,7 @@ body {
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding: 7rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
@@ -10289,7 +10290,7 @@ body {
 }
 
 .signup-section {
-  padding: 10rem 0;
+  padding: 7rem 0;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("assets/img/bg-signup.jpg");
   background-position: center;
   background-repeat: no-repeat;

@@ -126,6 +126,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rktirtho"
+    }
+  },
+  "defaultProject": "rktirtho",
+  "cli": {
+    "analytics": "74d9112c-60a0-4943-aac4-c524e9a06edb"
+  }
 }
