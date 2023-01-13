@@ -2,9 +2,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web Development using Java with Spring framework and Android App Development.   
-- 🌱 I’m currently learning machine learning, Angular and Software Design and Architecture.  
+- 🌱 I’m currently learning machine Microservices, TDD, AWS and Software Design and Architecture.  
 - 👯 I’m looking to collaborate on open source project make with Java.  
-- 🤔 I’m looking for a new Job.  
+- 🤔 I’m Working at BJIT Limited as a Software Engineer.  
 - 💬 Ask me about my project and works.
 - 📫 How to reach me:  [email](mailto:rktirtho@gmail.com)
 
