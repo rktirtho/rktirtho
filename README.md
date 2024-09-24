@@ -1,12 +1,29 @@
+![Banner Image](https://raw.githubusercontent.com/rktirtho/rktirtho/refs/heads/master/src/assets/banner.jpg)
 
-### Hi there 👋
+<h2>Professional Summary</h2>
+<p>A software engineer with 4 years of experience in e-commerce and web application development, specializing in Java and its popular frameworks. Proven track record of delivering high-quality, scalable software solutions. A strong team player with excellent communication and interpersonal skills, adept at thriving in complex environments. Known for quick learning, adaptability, and a commitment to continuous improvement. Actively involved in various organizations, clubs, and social activities outside of work.</p>
 
-- 🔭 I’m currently working on Web Development using Java with Spring framework and Android App Development.   
-- 🌱 I’m currently learning machine Microservices, TDD, AWS and Software Design and Architecture.  
-- 👯 I’m looking to collaborate on open source project make with Java.  
-- 🤔 I’m Working at BJIT Limited as a Software Engineer.  
-- 💬 Ask me about my project and works.
-- 📫 How to reach me:  [email](mailto:rktirtho@gmail.com)
+## Core Expertise
+
+- **Web Application Development:** Extensive experience in developing and maintaining web applications with a focus on performance, scalability, and user experience.
+
+- **Backend Development:** Proficient in Java, Spring Boot, Thymeleaf, REST APIs, Microservices, and Reactive Programming.
+
+- **Frontend Development:** Skilled in using HTML, CSS, Bootstrap, JavaScript, jQuery, and Angular for building responsive and interactive user interfaces.
+
+- **Software Architecture & Security:** Strong understanding of software architecture patterns and best practices in application security.
+
+- **Testing & Clean Code:** Experience in clean coding practices, unit testing, Test-Driven Development (TDD), and Continuous Integration/Continuous Deployment (CI/CD) using Docker and Jenkins.
+
+- **Databases:** Hands-on experience with MySQL, PostgreSQL, and MongoDB, with a strong understanding of database management and optimization.
+
+- **Payment Gateway Integration:** Expertise in integrating Paygent Payment Gateway solutions.
+
+- **Cloud & DevOps:** Proficient in Amazon Web Services (AWS) including EC2, SES, S3, SNS, SQS, RDS, Lambda, CodeCommit, and CloudFront.
+
+- **Mobile Development:** Knowledge of Android Native library development.
+
+- **Problem-Solving & Decision-Making:** Effective in research and development (R&D) and making informed technical decisions.
 
 
 **Languages and Tools:**  
