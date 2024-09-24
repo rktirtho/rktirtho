@@ -1,4 +1,4 @@
-![Banner Image](https://raw.githubusercontent.com/rktirtho/rktirtho/refs/heads/master/src/assets/banner.jpg)
+![Image](https://raw.githubusercontent.com/rktirtho/rktirtho/refs/heads/master/src/assets/img/image.jpg)
 
 <h2>Professional Summary</h2>
 <p>A software engineer with 4 years of experience in e-commerce and web application development, specializing in Java and its popular frameworks. Proven track record of delivering high-quality, scalable software solutions. A strong team player with excellent communication and interpersonal skills, adept at thriving in complex environments. Known for quick learning, adaptability, and a commitment to continuous improvement. Actively involved in various organizations, clubs, and social activities outside of work.</p>
